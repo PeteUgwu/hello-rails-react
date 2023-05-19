@@ -1,0 +1,5 @@
+Message.create(content: "Hello, how are you?")
+Message.create(content: "Hey there! Welcome to our platform. We're glad you're here!")
+Message.create(content: "Warm greetings to you!")
+Message.create(content: "Hi there! We're excited to have you here.")
+Message.create(content: "I hope you have a fantastic day ahead.")
